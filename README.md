@@ -55,7 +55,7 @@ All coordinated by a central Orchestrator Agent.
    Automatic dataset-to-downloader linking
 
 
-######################### AI_agent Intensive - Capstone Project ############################################################
+AI_agent Intensive - Capstone Project 
 
 
 
